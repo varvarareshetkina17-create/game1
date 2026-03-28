@@ -1,0 +1,40 @@
+
+ 
+ .header {
+   z-index: 100;
+   background: #697E50;
+   padding: 20px 0;
+   position: relative;
+}
+  .hero__title {
+     z-index: 150;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #C3CA92;
+      font-weight: 800;
+      font-size: 16px;
+  }
+  .hero__text {
+      z-index: 150;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #20331B;
+      font-weight: 800;
+      font-size: 16px;
+  }
+  .hero__fon{
+    background-color: #C3CA92;
+    height:100%;
+    width:100%;
+    z-index: 100;
+    margin:0;
+    padding:0;
+  }
+   img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+  
